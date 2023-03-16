@@ -1,0 +1,21 @@
+*{
+    box-sizing: 100%;
+}
+
+body{
+    font-size: 1rem;
+    font-family: 'Didact Gothic', sans-serif;
+
+}
+body header{
+    display: flex;
+    align-content: space-around;
+
+}
+
+nav{
+    display: flex;
+}
+nav ul{
+    list-style: none;
+}
